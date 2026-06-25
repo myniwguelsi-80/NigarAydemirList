@@ -1,0 +1,18 @@
+{
+    "id": 141181814,
+    "name": "deniz harp iett chal",
+    "author": "MyniwGuels",
+    "creators": ["MyniwGuels"],
+    "verifier": "MyniwGuels",
+    "verification": "#",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+        {
+            "user": "vubical",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

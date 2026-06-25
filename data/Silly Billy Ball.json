@@ -1,0 +1,18 @@
+{
+    "id": 143436010,
+    "name": "Moai Chan Challenge",
+    "author": "vubical",
+    "creators": ["vubical"],
+    "verifier": "vubical",
+    "verification": "https://youtu.be/SNyYkjGu1fg?si=fwKpwTh0YtTXRbsD",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+        {
+            "user": "MyniwGuels",
+            "link": "https://youtu.be/58xJjsaM68I",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

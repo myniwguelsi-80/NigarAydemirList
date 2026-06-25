@@ -1,0 +1,18 @@
+{
+    "id": 126402025,
+    "name": "esenyurt challenge",
+    "author": "vubical",
+    "creators": ["vubical"],
+    "verifier": "vubical",
+    "verification": "https://youtu.be/4JSYnG0VB7E",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+        {
+            "user": "DenBur",
+            "link": "#",
+            "percent": 100,
+            "hz": 180
+        }
+    ]
+}
