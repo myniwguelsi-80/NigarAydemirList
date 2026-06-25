@@ -8,6 +8,17 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
-        
+        {
+            "user": "Cretnox",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MyniwGuels",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

@@ -1,0 +1,18 @@
+{
+    "id": 143474480,
+    "name": "erzin challenge",
+    "author": "MyniwGuels",
+    "creators": ["MyniwGuels"],
+    "verifier": "MyniwGuels",
+    "verification": "#",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+        {
+            "user": "vubical",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

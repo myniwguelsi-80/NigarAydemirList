@@ -1,0 +1,18 @@
+{
+    "id": 143473731,
+    "name": "esenyurt",
+    "author": "Cretnox",
+    "creators": ["Cretnox"],
+    "verifier": "vubical",
+    "verification": "https://youtu.be/HmfzUE9S43U",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+        {
+            "user": "Cretnox",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

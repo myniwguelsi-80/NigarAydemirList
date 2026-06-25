@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "-",
     "records": [
+        {
+            "user": "vubical",
+            "link": "https://youtu.be/HGttrBTFufI https://youtu.be/HmfzUE9S43U",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
