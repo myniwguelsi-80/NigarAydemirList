@@ -1,18 +1,13 @@
 {
-    "id": 143436010,
-    "name": "Moai Chan Challenge",
+    "id": 95411481,
+    "name": "Silly Billy Ball",
     "author": "vubical",
     "creators": ["vubical"],
     "verifier": "vubical",
-    "verification": "https://youtu.be/SNyYkjGu1fg?si=fwKpwTh0YtTXRbsD",
+    "verification": "https://youtu.be/QcdI0aA96F8?si=BMukUG8_uwCxA83o",
     "percentToQualify": "100",
     "password": "-",
     "records": [
-        {
-            "user": "MyniwGuels",
-            "link": "https://youtu.be/58xJjsaM68I",
-            "percent": 100,
-            "hz": 360
-        }
+        
     ]
 }
