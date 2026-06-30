@@ -31,6 +31,12 @@
             "link": "#",
             "percent": 100,
             "hz": 200
-        } 
+        },
+        {
+            "user": "edenCo",
+            "link": "#",
+            "percent": 100,
+            "hz": 480
+        }  
     ]
 }
