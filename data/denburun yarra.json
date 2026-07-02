@@ -1,13 +1,14 @@
 {
-    "id": 143474480,
-    "name": "erzin challenge",
-    "author": "MyniwGuels",
-    "creators": ["MyniwGuels"],
-    "verifier": "MyniwGuels",
-    "verification": "https://youtu.be/ra7A45isoio?si=mk4VI_Cf542m1OL5",
+    "id": 143877089,
+    "name": "denburun yarra",
+    "author": "edenCo",
+    "creators": ["edenCo"],
+    "verifier": "edenCo",
+    "verification": "https://youtu.be/mDnS6jdgzjk?si=1NjzdyFJNKasLDYw",
     "percentToQualify": "100",
     "password": "-",
     "records": [
+        
         {
             "user": "vubical",
             "link": "#",
@@ -15,16 +16,16 @@
             "hz": 360
         },
         {
-            "user": "MoaiChan",
+            "user": "MyniwGuels",
             "link": "#",
             "percent": 100,
-            "hz": 165
+            "hz": 360
         },
         {
-            "user": "edenCo",
+            "user": "vubical",
             "link": "#",
             "percent": 100,
-            "hz": 480
-        }  
+            "hz": 360
+        }
     ]
 }
