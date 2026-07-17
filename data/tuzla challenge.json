@@ -1,0 +1,18 @@
+{
+    "id": 144229376,
+    "name": "tuzla challenge",
+    "author": "DenBur",
+    "creators": ["DenBur"],
+    "verifier": "DenBur",
+    "verification": "https://youtu.be/UPaJl5G1kQ8?si=JmVxtGPrMt8HZcKg",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+        {
+            "user": "vubical",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

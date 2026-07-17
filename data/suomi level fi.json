@@ -1,0 +1,18 @@
+{
+    "id": 144878136,
+    "name": "suomi level fi",
+    "author": "MyniwGuels",
+    "creators": ["MyniwGuels"],
+    "verifier": "MyniwGuels",
+    "verification": "https://youtu.be/X1VRHsdM7cA?si=tv8l1rnGmosSjWZV",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+        {
+            "user": "vubical",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
