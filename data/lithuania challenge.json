@@ -37,6 +37,12 @@
             "link": "#",
             "percent": 100,
             "hz": 600
-        }  
+        },
+        {
+            "user": "DemonOB",
+            "link": "#",
+            "percent": 100,
+            "hz": 240
+        }    
     ]
 }

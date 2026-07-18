@@ -1,10 +1,10 @@
 {
-    "id": 144878136,
-    "name": "suomi level fi",
+    "id": 145054807,
+    "name": "denburun kabusu g2",
     "author": "MyniwGuels",
     "creators": ["MyniwGuels"],
     "verifier": "MyniwGuels",
-    "verification": "https://youtu.be/X1VRHsdM7cA?si=tv8l1rnGmosSjWZV",
+    "verification": "https://youtu.be/gd1aSJ0RUsc?si=w9MWaPnu-SLyY4ec",
     "percentToQualify": "100",
     "password": "-",
     "records": [
@@ -13,12 +13,6 @@
             "link": "#",
             "percent": 100,
             "hz": 360
-        },
-        {
-            "user": "edenCo",
-            "link": "#",
-            "percent": 100,
-            "hz": 480
-        } 
+        }
     ]
 }

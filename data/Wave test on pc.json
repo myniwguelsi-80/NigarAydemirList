@@ -1,0 +1,18 @@
+{
+    "id": 143951618,
+    "name": "Wave test on pc",
+    "author": "DemonOB",
+    "creators": ["DemonOB"],
+    "verifier": "DemonOB",
+    "verification": "https://youtu.be/C637UcpHfNY?si=SvnhhDLRKx5Vstg0",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+        {
+            "user": "edenCo",
+            "link": "#",
+            "percent": 100,
+            "hz": 480
+        }  
+    ]
+}

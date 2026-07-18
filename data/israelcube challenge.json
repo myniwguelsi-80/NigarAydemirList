@@ -25,6 +25,18 @@
             "link": "#",
             "percent": 100,
             "hz": 360
-        }
+        },
+        {
+            "user": "edenCo",
+            "link": "#",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "DemonOB",
+            "link": "#",
+            "percent": 100,
+            "hz": 240
+        }    
     ]
 }
