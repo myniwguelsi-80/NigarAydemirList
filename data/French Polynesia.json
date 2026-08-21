@@ -1,0 +1,18 @@
+{
+    "id": 147356618,
+    "name": "French Polynesia",
+    "author": "MyniwGuels",
+    "creators": ["MyniwGuels"],
+    "verifier": "vubical",
+    "verification": "https://youtu.be/O46p6uXCsBo",
+    "percentToQualify": "100",
+    "password": "-",
+    "records": [
+        {
+            "user": "MyniwGuels",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
