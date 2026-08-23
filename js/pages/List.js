@@ -98,9 +98,21 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Gereksinimler hihihihi</h3>
                     <p>
-                        you need to love israel and netanyahu
+                        CPS limiti 15'dir (111 değil)
+                    </p>
+                    <p>
+                        Levelinizi layout yapıp bırakmayın lütfen azda olsa dekore etmeye çalışın.
+                    </p>
+                    <p>
+                        Leveliniz 30 saniyenin altında olmalıdır.
+                    </p>
+                    <p>
+                        Düşük kalite spam levelleri kabul edilmeyecektir. (Eğlenceli seviye oynamak istiyoruz di mi eden)
+                    </p>
+                    <p>
+                        Yukarıdaki kurallar 22 Ağustos 2026 tarihinden sonra yapılan leveller için geçerlidir.
                     </p>
                 
                 </div>
