@@ -112,9 +112,11 @@ export default {
                         Düşük kalite spam levelleri kabul edilmeyecektir. (Eğlenceli seviye oynamak istiyoruz di mi eden)
                     </p>
                     <p>
+                        Gameplayde random trigger kullanmayın.
+                    </p>
+                    <p>
                         Yukarıdaki kurallar 22 Ağustos 2026 tarihinden sonra yapılan leveller için geçerlidir.
                     </p>
-                
                 </div>
             </div>
         </main>
