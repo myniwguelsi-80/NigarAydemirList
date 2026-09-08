@@ -1,18 +1,18 @@
 {
-    "id": 145282213,
-    "name": "espana level es",
+    "id": 147956797,
+    "name": "choll lounge",
     "author": "MyniwGuels",
     "creators": ["MyniwGuels"],
     "verifier": "MyniwGuels",
-    "verification": "https://youtu.be/tv3atHSSZmg?si=fEAaiC9DVfGJhIMk",
+    "verification": "https://www.youtube.com/watch?v=w9iGopPoQOw",
     "percentToQualify": "100",
     "password": "-",
     "records": [
-       {
+        {
             "user": "vubical",
             "link": "#",
             "percent": 100,
             "hz": 360
-        } 
+        }
     ]
 }
